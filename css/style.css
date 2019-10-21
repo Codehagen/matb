@@ -450,10 +450,10 @@ span, a, a:hover {
 
 .logo {
   padding: 15px 0;
-  width: auto;
-  height: auto;
+  width: 180px;
+  height: 51px;
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 7000;
   color: #fff;
 }
 .logo:hover {
