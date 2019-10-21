@@ -2,7 +2,7 @@
 
 // configure
 $from = 'Demo contact form <demo@domain.com>';
-$sendTo = 'post@meandtheboys.no'; // Add Your Email
+$sendTo = 'christer@meandtheboys.no'; // Add Your Email
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'subject' => 'Subject', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in the email
 $okMessage = 'Vi har mottatt din hendvendelse, vi tar kontakt med deg snart :)';
