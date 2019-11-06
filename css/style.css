@@ -902,7 +902,7 @@ span, a, a:hover {
 				12 Contact
 -----------------------------------------------------------------*/
 .contact {
-  background-attachment: fixed;
+  overflow: hidden;
 }
 .contact .form input[type='text'],
 .contact .form input[type='email'],
